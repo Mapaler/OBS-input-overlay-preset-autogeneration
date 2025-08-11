@@ -1,5 +1,5 @@
 [简体中文说明](README.zh-Hans.md)
-# Automatically Generate Presets for OBS-Studio's Input-Overlay Plugin in Adobe Fireworks  
+# Automatically Generate Presets for OBS-Studio's [Input-Overlay](https://github.com/univrsal/input-overlay) Plugin in Adobe Fireworks  
 This script runs in Adobe Fireworks CS6. Currently, it only supports basic mouse elements. By inserting a background image of a mouse in Fireworks and drawing paths for different button areas, it can automatically generate presets for the input-overlay plugin.
 
 Since Fireworks CS6 is a 2012 software (32-bit only) with a JS engine based on ES3 syntax, its scripting API is primarily procedural, making development cumbersome.

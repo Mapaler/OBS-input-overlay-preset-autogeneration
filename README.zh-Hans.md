@@ -1,4 +1,4 @@
-# 在Adobe Fireworks里自动生成 OBS-Studio 的输入叠加(input-overlay)插件的预设 
+# 在Adobe Fireworks里自动生成 OBS-Studio 的[输入叠加(input-overlay)](https://github.com/univrsal/input-overlay)插件的预设 
 本程序在 Adobe Fireworks CS6 下运行，目前只制作了鼠标的基础内容，只要在 Fireworks 里插入鼠标的背景图片，然后绘制不同的按钮区域的路径，就能自动生成 输入叠加(input-overlay)插件的预设。
 
 由于 Fireworks CS6 是 2012 年的软件，只有 32 位，JS 引擎是 ES 3 语法环境，脚本 API 更多是是面向过程开发，编写起来非常的麻烦。
